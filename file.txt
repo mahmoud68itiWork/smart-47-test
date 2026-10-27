@@ -2,5 +2,4 @@ first line
 second line 
 third
 fourth
-five 
 six
