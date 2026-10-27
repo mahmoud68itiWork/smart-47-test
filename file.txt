@@ -3,3 +3,5 @@ second line
 third
 fourth
 six
+hello
+hi
