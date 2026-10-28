@@ -6,3 +6,4 @@ six
 hello
 hi
 line 8 update
+new update
